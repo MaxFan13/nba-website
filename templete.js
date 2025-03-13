@@ -225,7 +225,7 @@ socialMediaTime.then(function(data) {
     });
 
     // Define the dimensions and margins for the SVG
-    const margin = { top: 40, right: 50, bottom: 50, left: 60 };
+    const margin = { top: 40, right: 50, bottom: 75, left: 60 };
     const width = 700 - margin.left - margin.right;
     const height = 400 - margin.top - margin.bottom;
 
